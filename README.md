@@ -22,7 +22,9 @@ yarn add supertest @types/supertest -D
 yarn add ts-jest
 
 
-img
+<h1 align="center">
+    <img src="./img/teste-unitario.png" />
+</h1>
 
 
 ## Banco de dados
